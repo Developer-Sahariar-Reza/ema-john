@@ -1,0 +1,9 @@
+/* google font import  */
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+/* common css  */
+* {
+  font-family: "Lato", sans-serif;
+  padding: 0;
+  margin: 0;
+}
