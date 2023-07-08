@@ -1,0 +1,11 @@
+.product {
+  width: 300px;
+  height: 510px;
+  border: 1px solid lightslategrey;
+}
+
+.product img {
+  height: 286px;
+  width: 286px;
+  margin-bottom: 25px;
+}
